@@ -1,0 +1,23 @@
+.heading
+{
+width: 100%;
+}
+
+#canvas
+{
+    text-align: center;
+}
+
+.copy_right_footer
+{
+    width: 100%;
+    background-color: orange;
+    color: black;
+    position: fixed;
+    bottom: 0;
+}
+
+.modal-title
+{
+    color: black;
+}
